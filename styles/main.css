@@ -1,0 +1,14 @@
+@import url("care.css");
+@import url("locations.css");
+@import url("owned.css");
+@import url("tips.css");
+
+.header {
+    font-family: 'Bitter', serif;
+}
+.fish {
+    display: flex;
+    font-family: 'Bitter', serif;
+    margin: 1em;
+    padding: 1em;
+}

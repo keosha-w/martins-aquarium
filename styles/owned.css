@@ -1,0 +1,10 @@
+.fish__owned {
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    padding: 1em;
+}
+.fish__owned__names {
+    font-weight: bold;
+}
